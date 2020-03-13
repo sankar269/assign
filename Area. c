@@ -23,7 +23,7 @@ void main()
                  printf("\n Area of Rhombus=%f",x*y/2);
                  break;
              case4:
-                 printf("\n Enter the length of base and height of the paallelogram:");
+                 printf("\n Enter the length of base and height of the parallelogram:");
                  scanf("%f%f",,&c,&d);
                  printf("\n Area of parallelogram=%f",c*d);
                  break;
